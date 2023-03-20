@@ -28,26 +28,44 @@ public class RandomProductGenerator : IProductProvider
 
     private static IEnumerable<Product> GenerateRandomProducts(uint count, double minimumPrice, double maximumPrice)
     {
-        return default;
+        List<Product> randomProducts = new List<Product>();
+        for (uint i = 0; i < count; i++)
+        {
+            Color color = GetRandomColor();
+            string name = GetRandomName(color);
+            Season season = GetRandomSeason();
+            double price = GetRandomPrice(minimumPrice, maximumPrice);
+
+            randomProducts.Add(new Product(i,name,color,season,price)); 
+        }
+
+        return randomProducts;
     }
 
     private static Color GetRandomColor()
     {
-        return default;
+        Color randomColor=(Color)Colors.GetValue(Random.Next(Colors.Length));
+
+        return randomColor;
     }
 
     private static string GetRandomName(Color color)
     {
-        return default;
+        string randomName= (String)Names.GetValue(Random.Next(Names.Length));
+        
+        return $"{color} {randomName} ";
     }
 
     private static Season GetRandomSeason()
     {
-        return default;
+        Season randomColor=(Season)Seasons.GetValue(Random.Next(Seasons.Length));
+        return randomColor;
     }
 
     private static double GetRandomPrice(double minimumPrice, double maximumPrice)
     {
-        return default;
+       
+        
+        return Random.NextDouble() * (maximumPrice - minimumPrice) + minimumPrice;;
     }
 }

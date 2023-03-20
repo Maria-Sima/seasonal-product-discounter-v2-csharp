@@ -1,0 +1,15 @@
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/bin/Debug/net6.0/CodeCool.SeasonalProductDiscounter
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/bin/Debug/net6.0/CodeCool.SeasonalProductDiscounter.deps.json
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/bin/Debug/net6.0/CodeCool.SeasonalProductDiscounter.runtimeconfig.json
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/bin/Debug/net6.0/CodeCool.SeasonalProductDiscounter.dll
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/bin/Debug/net6.0/CodeCool.SeasonalProductDiscounter.pdb
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.csproj.AssemblyReference.cache
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.AssemblyInfoInputs.cache
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.AssemblyInfo.cs
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.csproj.CoreCompileInputs.cache
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.dll
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/refint/CodeCool.SeasonalProductDiscounter.dll
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.pdb
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/CodeCool.SeasonalProductDiscounter.genruntimeconfig.cache
+/home/maria/CodeCool/seasonal-product-discounter-v2-csharp-Maria-Sima/CodeCool.SeasonalProductDiscounter/obj/Debug/net6.0/ref/CodeCool.SeasonalProductDiscounter.dll

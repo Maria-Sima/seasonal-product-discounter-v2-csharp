@@ -4,10 +4,11 @@ using CodeCool.SeasonalProductDiscounter.Service.Products.Statistics;
 using CodeCool.SeasonalProductDiscounter.Ui;
 
 var productProvider = new RandomProductGenerator(100, 10, 50);
-IProductBrowser productBrowser = null;
-IProductStatistics productStatistics = null;
+IProductBrowser productBrowser = new ProductBrowser(productProvider);
+IProductStatistics productStatistics = new ProductStatistics(productBrowser);
 
 var productsUi = new ProductsUi(productBrowser);
 var statisticsUi = new StatisticsUi(productStatistics);
 
 productsUi.Run();
+statisticsUi.Run();
